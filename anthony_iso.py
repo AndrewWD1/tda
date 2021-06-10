@@ -46,4 +46,4 @@ with open('./data/anthony_iso.csv', newline='') as csv_file:
 
   diagrams = ripser(data, maxdim=4,n_perm=100)['dgms']
   plot_diagrams(diagrams, show=True, ax=ax)
-  plt.savefig('a')
+  plt.savefig('anthony_iso')
