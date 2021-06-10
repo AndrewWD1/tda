@@ -1,6 +1,6 @@
 ## Activiating Conda with custom environment that has ripser, numpy, etc...
 
-After logging into the remote computer via ssh, you can do the following to activate
+After logging into the universities research computer via ssh, you can do the following to activate
 a custom python environment to allow you to download the software you need. Just
 using pip in the terminal will not work as their are controls in place taht restrict
 what you are able to do.
