@@ -38,7 +38,7 @@ def useableArray(data):
   return data
 
 
-with open('./tda/data/anthony_iso.csv', newline='') as csv_file:
+with open('./data/anthony_iso.csv', newline='') as csv_file:
   data = csv.reader(csv_file)
   data = useableArray(data)
   figure = plt.figure()
