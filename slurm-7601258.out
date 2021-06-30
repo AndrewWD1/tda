@@ -1,2 +1,0 @@
-/var/spool/slurmd/job7601258/slurm_script: line 14: 190733 Killed                  python3 anthony_iso.py
-slurmstepd: error: Detected 1 oom-kill event(s) in step 7601258.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
