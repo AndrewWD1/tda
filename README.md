@@ -1,5 +1,7 @@
 ## Utlizing the University of Colorado Research Computer to run python scripts
 
+Example job script and code can be found at https://github.com/AndrewWD1/tda
+
 ### Activiating Conda with custom environment that has ripser, numpy, etc...
 
 After logging into the universities research computer via ssh, you can do the following to activate
